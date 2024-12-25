@@ -13,7 +13,7 @@
 </div>
 
 ### :woman_technologist: About Me :
-I'm a student with a passion for Cybersecurity and Web Development. I'm excited to share my projects and experiences with you on GitHub. Feel free to explore my repositories and let's connect! 🚀
+A tech lover with a passion for cybersecurity and website development. I'm excited to share my projects and experiences with you on GitHub. Feel free to explore my repositories and let's connect! 🚀
 
 ---
 
